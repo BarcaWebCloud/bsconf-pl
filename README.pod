@@ -1,0 +1,31 @@
+=head1 NAME
+
+BSconf::Utils - some useful command-line utilities
+
+=head1 DESCRIPTION
+
+ A Perl Script That Installs, Configures And Repairs Servers in General
+
+F<bsconf> - print a date-time tag in form C<YYYY-MM-DD-hhmmss>
+
+=head1 AUTHOR
+
+ Copyright (C) 2021 - 2023, Barca, Inc. <opensource@barca.com>  GitHub: @BarcaWebCloud
+
+=head1 LICENSE
+
+Perl License (perl)
+
+=head1 INSTALLATION
+
+Using C<cpan>:
+
+ $ cpan BSconf::Utils
+
+Manual install:
+
+ $ perl Makefile.PL
+ $ make
+ $ make install
+
+=cut
