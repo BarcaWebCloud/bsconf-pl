@@ -1,0 +1,29 @@
+# Changelog
+
+### BSconf 0.1.0 (last released)
+
+This is the latest version introduces the use of the module and its features.
+
+<br>
+<br>
+
+## v0.1.0 [2023-04-20]
+
+### Features
+
+- [#1](https://github.com/BarcaWebCloud/bsconf-pl/pull/1): Init Script Setup. Gratitude @ahsouza!
+
+
+### Release Notes
+
+New features added:
+
+<br>
+
+- **Init Script Perl**
+- **Docs: LICENSE, CHANGELOG, MANIFEST & README**
+- **BSCONF Hello date actual**
+
+<br>
+<br>
+
